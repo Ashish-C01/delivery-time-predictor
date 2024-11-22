@@ -80,7 +80,7 @@ This project predicts the estimated time required to deliver food to a given loc
    - Tuned hyperparameters using **Hyperopt** for optimal performance.  
 
 3. **Model Evaluation**  
-   - Evaluated the model on test data to ensure robust performance.  
+   - Evaluated the model on test split to ensure robust performance.  
 
 4. **User Interface Development**  
    - Built a user-friendly UI with interactive map functionalities using **Dash** and **Folium**.  
